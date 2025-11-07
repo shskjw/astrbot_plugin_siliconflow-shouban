@@ -1,7 +1,5 @@
-{
     "name": "astrbot_plugin_siliconflow-shouban",
-    "desc": "通过第三方api，实现手办化、cos化等等功能",
+    "desc": "接入硅基流动画图，图片编辑，可自定义预设",
     "author": "shskjw",
     "repo": "https://github.com/shskjw/astrbot_plugin_siliconflow-shouban",
-    "version": "1.2.0"
-}
+    "version": "1.0.0"
